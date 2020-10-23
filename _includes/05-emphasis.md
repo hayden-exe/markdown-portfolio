@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Sometimes_ I think I'm pretty good at things, like **sfx make-up** or even **making bad jokes**. :tada:
